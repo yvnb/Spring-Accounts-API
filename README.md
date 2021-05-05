@@ -19,6 +19,6 @@ In case of testing from Postman, please use the below url with basic auth select
 
 http://localhost:8080/api/account/statement?id=1&fromDate=01012020&toDate=01042021&frmAmt=100&toAmt=600
 
-valid users - admin/admin , user/user
+valid users - admin/admin -> for all parameters, user/user -> for only id parameter
 
 
